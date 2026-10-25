@@ -1,2 +1,0 @@
-Application version 1
-Login feature added
